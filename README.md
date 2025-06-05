@@ -22,7 +22,6 @@ This is a classification task where the target variable is `status_group` with t
 
 - Python (pandas, scikit-learn, matplotlib, seaborn, xgboost)
 - Jupyter Notebooks
-- Git/GitHub
 
 ## 🏆 Best score achieved
 
