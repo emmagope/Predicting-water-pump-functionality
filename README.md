@@ -26,7 +26,7 @@ This is a classification task where the target variable is `status_group` with t
 
 ## 🏆 Best score achieved
 
-My best private leaderboard score was **0.8176**, placing me in the top X%.
+My best private leaderboard score was **0.8176**. 
 
 ## 📁 Repository structure
 
